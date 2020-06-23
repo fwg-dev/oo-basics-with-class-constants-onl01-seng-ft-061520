@@ -13,5 +13,5 @@ BRANDS = []
   end
 def brand
   @brand
-end 
+end
 end

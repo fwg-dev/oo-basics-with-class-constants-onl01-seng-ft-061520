@@ -13,6 +13,6 @@ BRANDS = []
   end
 def brand
   @brand=brand
-  BRAND << brand
+  BRANDS << brand
 end
 end
